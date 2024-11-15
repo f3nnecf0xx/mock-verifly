@@ -3,21 +3,14 @@ html {
   height: 100%;
   width: 100%;
 }
-div {
-  transform: translate(85%, 0%); 
-  width: 550px;
- height:280px;
-  background-color: #303542;
-  border-radius: 5px 5px 5px 5px;
-}
-@media screen and (max-width: 773px) {
+
 div {
   transform: translate(45%, 0%); 
   width: 550px;
  height:280px;
   background-color: #303542;
   border-radius: 5px 5px 5px 5px;
-}
+
 }
 input {
   transform:translate(10px);
