@@ -10,7 +10,7 @@ div {
   background-color: #303542;
   border-radius: 5px 5px 5px 5px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 773px) {
 div {
   transform: translate(45%, 0%); 
   width: 550px;
